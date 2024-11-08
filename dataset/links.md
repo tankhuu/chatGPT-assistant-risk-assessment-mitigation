@@ -1,0 +1,4 @@
+- https://www.kaggle.com/c/ieee-fraud-detection/data 
+- https://www.kaggle.com/c/home-credit-default-risk/data 
+- https://www.kaggle.com/datasets/wordsforthewise/lending-club/data 
+- https://data.nasdaq.com/publishers 
